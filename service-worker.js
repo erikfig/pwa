@@ -8,8 +8,6 @@ var filesToCache = [
     'js/object.observe.polyfill.js',
     'js/scripts.js',
     'service-worker.js',
-    'http://pokeapi.co/api/v2/evolution-chain/',
-    'https://unpkg.com/axios/dist/axios.min.js',
     'manifest.json',
     'img/icons/icon-128x128.png',
     'img/icons/icon-144x144.png',

@@ -96,7 +96,3 @@ if ('serviceWorker' in navigator) {
             .register('./service-worker.js')
             .then(function() { console.log('Service Worker Registered'); });
 }
-
-axios.get('http://pokeapi.co/api/v2/evolution-chain/').then(function (response) {
-    console.log(response);
-});
